@@ -1,4 +1,4 @@
-# Replication: Cattaneo, Jansson and Newey (2018)
+# Replication: Cattaneo, Jansson and Newey (2018, JASA)
 
 Replication files for simulation results.
 
